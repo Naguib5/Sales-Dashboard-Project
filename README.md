@@ -10,8 +10,11 @@ The project transforms raw retail sales data into meaningful business insights t
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard](Screenshots/sales dashboard.png)
-![Sales Dashboard](Screenshots/sales dashboard mobile layout.jpeg)
+### Desktop Layout
+![Sales Dashboard](Screenshots/sales-dashboard.png)
+
+### Mobile Layout
+![Sales Dashboard Mobile](Screenshots/sales-dashboard-mobile-layout.jpeg)
 ---
 
 ## 🎯 Project Objectives
